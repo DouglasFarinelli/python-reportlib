@@ -1,6 +1,6 @@
 # coding=utf-8
 
-"""Fork on Django."""
+"""Parts of this module is Copyright by Django Team."""
 
 import datetime
 import functools
